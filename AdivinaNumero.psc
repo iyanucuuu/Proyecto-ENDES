@@ -26,5 +26,5 @@
 	SiNo
 		Escribir "El numero era: ",num_secreto{;}
 	FinSi
-	
+	He hecho un cambio jijijijiji
 {FinProceso}
