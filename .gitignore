@@ -1,0 +1,5 @@
+# Cuando sincronicemos nuestro repositorio, vamos a ignorar las copias de seguridad 
+*.bak
+
+# Y tambien los aarchivos con código objetp
+*.txt
